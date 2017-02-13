@@ -1,0 +1,3 @@
+1. copy the file "responsive_html5.html"
+2. paste in your local desktop
+3. open/double click to see the application.
